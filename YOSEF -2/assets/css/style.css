@@ -1,0 +1,37 @@
+
+
+
+.calculate{
+    background-color: blueviolet;
+    color:white;
+    width:50%;
+    padding:20px;
+    margin: 20px auto;
+}
+
+.calculate .form-group{
+    width:100%;
+    margin-top:10px;
+}
+.calculate .form-group .form-control{
+    width:65%;
+    display: inline-block;
+    border-radius: 0;
+}
+.calculate .form-group label{
+color:black;
+width:30%;
+display: inline-block;
+font-weight: bold;
+
+}
+.calc{
+    background-color: white;
+    border: 1px solid black;
+    margin:  20px;
+    display: inline-block;
+
+}
+.radioBtn{
+    margin-top:20px;
+}
